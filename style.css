@@ -86,3 +86,7 @@ img {
     margin: 10px auto;
     -moz-box-align: center;
 }
+a {
+    color: #e8d1a7;
+    margin: 0 10px;
+}
