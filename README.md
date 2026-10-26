@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-p">
+<html>
 <head>
     <meta charset="UTF-8">
     <title>Atividade</title>
