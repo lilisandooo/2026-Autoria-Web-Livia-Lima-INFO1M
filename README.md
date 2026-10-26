@@ -1,13 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="UTF-8">
-    <title>Atividade</title>
-</head>
-
 <body>
 <h1>Repositório de Autoria Web</h1>
-<a href="05102026.html">Clique para visitar epic...</a>
+<a href="EPIC">Clique para visitar EPIC...</a>
+<a href="O_Principe_do_Egito">Clique para visitar Moisés...</a>
 </body>
-
 </html>
