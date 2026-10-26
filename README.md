@@ -1,5 +1,13 @@
-# REPOSITÓRIO PARA A DISCIPLINA DE AUTORIA WEB
-INFO1M Autoria web exercício. Introdução ao Git Hub.
+<!DOCTYPE html>
+<html lang="pt-p">
+<head>
+    <meta charset="UTF-8">
+    <title>Atividade</title>
+</head>
 
-## Informações básicas
-... blá blá blá
+<body>
+<h1>Repositório de Autoria Web</h1>
+<a href="EPIC">Clique para visitar epic...</a>
+</body>
+
+</html>
